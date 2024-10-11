@@ -13,3 +13,4 @@ heatmap(matrix_data,
         ylab = "Rows", 
         col = heat.colors(256), 
         scale = "none")
+plot(matrix_data)
